@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<!DOCTYPE html>
 ‹html>
 ‹head>
 《titlex我的第一個雲端網頁</title》
