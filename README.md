@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-‹html>
-‹head>
-《titlex我的第一個雲端網頁</title》
+<html>
+<head>
+    <title>我的第一個雲端網頁</title>
 </head>
-‹body style="text-align:center; padding-top: 50px; font-family: sans-serif;">
-<h1›Hello Cloud Computing! •‹/h1›
-《p>這是我第一次把檔案放到雲端伺服器上供全世界存取 4150E108 Marienn Flores！</px
+<body style="text-align:center; padding-top:50px; font-family:sans-serif;">
+    <h1>Hello Cloud Computing! 4150E108 + Fei Ma Lin ☁</h1>
+    <p>這是我第一次把檔案放到雲端伺服器上供全世界存取！</p>
 </body>
 </html>
